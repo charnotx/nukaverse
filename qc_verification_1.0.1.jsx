@@ -42,6 +42,6 @@ if (resolution == 400) {
 //   alert(verMessage);
         } 
     else {
-("Your current resolution is: "+resolution+"DPI"+"\n"+"\nMake sure to correct this image!");
+alert("Your current resolution is: "+resolution+"DPI"+"\n"+"\nMake sure to correct this image!");
     };
 //Script to verify resolution of image being saved. END
